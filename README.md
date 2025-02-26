@@ -1,6 +1,6 @@
 # Scoop Buckets
 
-这是一个 Scoop 的 bucket 仓库，用于管理和分发 Scoop 软件包。
+一个简易的 Scoop 软件包仓库。
 
 ## 目录结构
 
