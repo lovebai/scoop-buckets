@@ -9,6 +9,12 @@
         }
     },
     "bin": "Cherry-Studio-1.0.0-portable.exe",
+    "shortcuts": [
+        [
+            "Cherry-Studio-1.0.0-portable.exe",
+            "Cherry-Studio"
+        ]
+    ],
     "checkver": {
         "github": "https://github.com/CherryHQ/cherry-studio"
     },
