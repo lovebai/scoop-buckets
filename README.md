@@ -17,7 +17,7 @@
     ```
 3. 安装软件包：
     ```sh
-    scoop install <package-name>
+    scoop install bai_scoop-buckets/<package-name>
     ```
 
 ## 贡献指南
