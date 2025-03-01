@@ -5,8 +5,7 @@
     "license": "Apache License 2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/CherryHQ/cherry-studio/releases/download/v1.0.1/Cherry-Studio-1.0.1-portable.exe",
-            "hash":"578FD6BCD3A310EBBD13F370267F2E32925E65C4D25FA754F4DC97D3823EF93C"
+            "url": "https://github.com/CherryHQ/cherry-studio/releases/download/v1.0.1/Cherry-Studio-1.0.1-portable.exe"
         }
     },
     "bin": "Cherry-Studio-1.0.1-portable.exe",
