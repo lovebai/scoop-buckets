@@ -1,34 +1,34 @@
-# Scoop Buckets
+### Scoop Buckets
 
-一个简易的 Scoop 软件包仓库。
+A simple Scoop software bucket repository.
 
-## 目录结构
+## Directory Structure
 
-- `bucket/` - 存放所有的软件包定义文件
-- `scripts/` - 存放辅助脚本
-- `README.md` - 项目说明文件
+- `bucket/` - Contains all software package definition files.
+- `scripts/` - Contains auxiliary scripts.
+- `README.md` - Project description file.
 
-## 如何使用
+## How to Use
 
-1. 安装 [Scoop](https://scoop.sh/)
-2. 添加此 bucket 仓库：
+1. Install [Scoop](https://scoop.sh/)
+2. Add this bucket repository:
     ```sh
     scoop bucket add bai_scoop-buckets https://github.com/lovebai/scoop-buckets
     ```
-3. 安装软件包：
+3. Install software packages:
     ```sh
     scoop install bai_scoop-buckets/<package-name>
     ```
 
-## 贡献指南
+## Contribution Guide
 
-欢迎提交 Pull Request 来贡献新的软件包或改进现有的软件包。请确保遵循以下指南：
+Contributions are welcome via Pull Requests to add new software packages or improve existing ones. Please follow the guidelines below:
 
-1. Fork 此仓库
-2. 创建一个新的分支
-3. 提交您的更改
-4. 创建一个 Pull Request
+1. Fork this repository
+2. Create a new branch
+3. Submit your changes
+4. Create a Pull Request
 
-## 许可证
+## License
 
-此项目采用 [Apache License 2.0 许可证](LICENSE)。
+This project is licensed under the [Apache License 2.0](LICENSE).
